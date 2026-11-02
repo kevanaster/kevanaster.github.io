@@ -9,7 +9,7 @@ author:
   greetings: "Hello! We are Kaitlyn and Eugene, and we are traveling in our self-converted Promaster named Kevan."
 favicon: 'assets/images/favicon.ico'
 baseurl:
-production_url: https://travelswithkevan.com/
+production_url: https://kevanaster.github.io/
 disqus:
 #mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id

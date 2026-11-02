@@ -12,4 +12,4 @@ Disallow: /links
 Disallow: /contact
 
 
-Sitemap: https://travelswithkevan.com/sitemap.xml
+Sitemap: https://kevanaster.github.io/sitemap.xml
